@@ -1,4 +1,0 @@
-HEAD
-
-# Modulo-5
-577c1be0707f859af87efbef768d8a878c86d7f8
